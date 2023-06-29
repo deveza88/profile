@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "rocketseat",
+    "git.ignoreLimitWarning": true
+  }
+}
